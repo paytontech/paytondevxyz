@@ -1,1 +1,8 @@
 /* design */
+/* apply sans-serif font to all text elements */
+body {
+    font-family: sans-serif;
+}
+h3 {
+    
+}
